@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NotMrBugcat
+- 👋 Hi, I’m Kira.
 - 👀 I’m interested in making discord bots 
 - 🌱 I’m currently learning discord.py
 - 📫 Meet me on discord, https://discord.gg/xA45VNU8rV
