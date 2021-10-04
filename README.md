@@ -53,3 +53,12 @@ AboutMe = {
   
 [![Discord](https://img.shields.io/badge/-DISCORD-informational?style=for-the-badge&logo=discord&logoColor=23272a&color=7289da)]()
 </div>
+<div align="right">
+
+    
+
+![](https://komarev.com/ghpvc/?username=Kira272921&style=flat-square&color=7289da)
+
+    
+
+</div>
