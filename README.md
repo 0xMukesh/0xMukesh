@@ -32,6 +32,7 @@ AboutMe = {
     <img src="https://img.shields.io/badge/-python-ffd43b?style=for-the-badge&labelColor=306998&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/-html 5-orange?style=for-the-badge&labelColor=orange&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/-css 3-blue?style=for-the-badge&labelColor=blue&logo=css3&logoColor=white"</h2>
+    <img src="https://img.shields.io/badge/-javascript-F0DB4F?style=for-the-badge&labelColor=F0DB4F&logo=javascript&logoColor=black">
     <h4>Libraries and Frameworks</h4>
     <img src="https://img.shields.io/badge/-discord.py-7289da?style=for-the-badge&labelColor=7289da&logo=discord&logoColor=white">
     <img src="https://img.shields.io/badge/-firebase-black?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffa611" >
