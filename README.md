@@ -18,7 +18,7 @@ AboutMe = {
 
     Hobbies   : [
 
-        "Trolling Discord admins", "Making Discord bots", "Visiting the outside world rarely"
+        "Trolling Discord admins", "Making Discord bots", "Playing Cricket"
 
     ],
 
