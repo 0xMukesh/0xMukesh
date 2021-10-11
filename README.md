@@ -10,7 +10,9 @@ AboutMe = {
 
     Pronouns  : "He/Him",
 
-    Languages : ["Python", "HTML", "CSS", "JS"]
+    Languages : [
+    "Python", "HTML", "CSS", "JS"
+    ]
  }
  ```
 
