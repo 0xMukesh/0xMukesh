@@ -10,21 +10,10 @@ AboutMe = {
 
     Pronouns  : "He/Him",
 
-    Languages : [
+    Languages : ["Python", "HTML", "CSS", "JS"]
+ }
+ ```
 
-        "Python", "HTML", "CSS"
-
-    ],
-
-    Hobbies   : [
-
-        "Trolling Discord admins", "Making Discord bots", "Playing Cricket"
-
-    ],
-
-}
-
-```
 
 <div align="center">
     <h2>Techstack <img src="https://cdn.discordapp.com/emojis/886120813969956875.png?size=100" width="30px"></h2>
