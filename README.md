@@ -27,6 +27,7 @@ AboutMe = {
     <h4>Libraries and Frameworks</h4>
     <img src="https://img.shields.io/badge/-discord.py-7289da?style=for-the-badge&labelColor=7289da&logo=discord&logoColor=white">
     <img src="https://img.shields.io/badge/-firebase-black?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffa611" >
+    <img src="https://camo.githubusercontent.com/e263934e2ca58b1813bb30e40796d5a3f8e6f289a8b821141b59d2a446087055/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d626f6f7473747261702d3630324335303f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d363032433530266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465">
     <h4>Sofware and Tools</h4>
     <img src="https://img.shields.io/badge/-git-orange?style=for-the-badge&labelColor=orange&logo=git&logoColor=black">
     <img src="https://img.shields.io/badge/-github-whitesmoke?style=for-the-badge&labelColor=whitesmoke&logo=github&logoColor=black">
