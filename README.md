@@ -41,6 +41,7 @@ AboutMe = {
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kira272921&theme=monokai" display=block width=80% height=auto alt="1" >
     <h2>Github Trophies <img src="https://cdn.discordapp.com/emojis/866705355684577290.png?v=1" width="30px"></h2>
     <img src="https://github-profile-trophy.vercel.app/?username=Kira272921&theme=onedark&no-frame=true&no-bg=true&theme=discord">
+    <img src="https://github.com/Kira272921/Kira272921/blob/output/github-contribution-grid-snake.gif">
 </div>
 <div align=center>
 <h2>Social media links</h2>
