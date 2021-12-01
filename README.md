@@ -18,9 +18,8 @@ AboutMe = {
  }
  ```
 
-
 <div align="center">
-    <h2>Techstack <img src="https://cdn.discordapp.com/emojis/886120813969956875.png?size=100" width="30px"></h2>
+    <h2>Techstack<img src="https://cdn.discordapp.com/emojis/886120813969956875.png?size=100" width="30px"></h2>
     <h4>Languages</h4>
     <img src="https://img.shields.io/badge/-python-ffd43b?style=for-the-badge&labelColor=306998&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/-html 5-orange?style=for-the-badge&labelColor=orange&logo=html5&logoColor=white">
@@ -35,7 +34,7 @@ AboutMe = {
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
-    <h4>Sofware and Tools</h4>
+    <h4>Software and Tools</h4>
     <img src="https://img.shields.io/badge/-git-orange?style=for-the-badge&labelColor=orange&logo=git&logoColor=black">
     <img src="https://img.shields.io/badge/-github-whitesmoke?style=for-the-badge&labelColor=whitesmoke&logo=github&logoColor=black">
     <img src="https://img.shields.io/badge/-vs code-2c2f33?style=for-the-badge&labelColor=2c2f33&logo=visualstudiocode&logoColor=blue">
@@ -46,10 +45,10 @@ AboutMe = {
     <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
 </div>
 <div align="center">
-    <h2>Github Profile Stats 📊</h2>    
+    <h2>GitHub Profile Stats 📊</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=Kira272921&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&hide_border=true" height="175px">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kira272921&show_icons=true&hide_border=true&theme=dark" height="175px">
-    <h2>Github Trophies <img src="https://cdn.discordapp.com/emojis/866705355684577290.png?v=1" width="30px"></h2>
+    <h2>GitHub Trophies <img src="https://cdn.discordapp.com/emojis/866705355684577290.png?v=1" width="30px"></h2>
     <img src="https://github-profile-trophy.vercel.app/?username=Kira272921&theme=onedark&no-frame=true&no-bg=true&theme=discord">
 </div>
 <div align=center>
