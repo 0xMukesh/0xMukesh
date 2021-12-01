@@ -56,13 +56,5 @@ AboutMe = {
 <h2>Social media links</h2>
   
 [![Discord](https://img.shields.io/badge/-DISCORD-informational?style=for-the-badge&logo=discord&logoColor=23272a&color=7289da)](https://discord.gg/4EDmwmzXzN)
-</div>
-<div align="right">
-
-    
-
-![](https://komarev.com/ghpvc/?username=Kira272921&style=flat-square&color=7289da)
-
-    
-
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kira272921)
 </div>
