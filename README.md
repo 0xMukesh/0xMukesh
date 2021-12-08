@@ -52,6 +52,8 @@ AboutMe = {
     <img src="https://github-profile-trophy.vercel.app/?username=Kira272921&theme=onedark&no-frame=true&no-bg=true&theme=discord">
 </div>
 
+<h2>WakaTime Stats</h2>
+
 <!--START_SECTION:waka-->
 ```text
 JavaScript   6 hrs 47 mins   ████████▓░░░░░░░░░░░░░░░░   34.79 % 
