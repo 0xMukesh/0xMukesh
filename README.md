@@ -51,6 +51,10 @@ AboutMe = {
     <h2>GitHub Trophies <img src="https://cdn.discordapp.com/emojis/866705355684577290.png?v=1" width="30px"></h2>
     <img src="https://github-profile-trophy.vercel.app/?username=Kira272921&theme=onedark&no-frame=true&no-bg=true&theme=discord">
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align=center>
 <h2>Social media links</h2>
   
