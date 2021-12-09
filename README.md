@@ -1,8 +1,6 @@
-<h1 align="center"> Greetings <img src="https://cdn.discordapp.com/emojis/886788754403119114.png?size=100" width="30px"></h1>
+![image](https://user-images.githubusercontent.com/90365542/145386869-a384bded-0732-4b41-b059-7b3299bcedc9.png)
 
-<h2 align="center"> Who am I? <img src="https://cdn.discordapp.com/emojis/886788755191652432.png?size=100" width="30px"></h2>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23909090&lines=Hi%2C+I+am+Kira;I+am+a+Discord+bot+dev;As+well+as+web+dev+)](https://git.io/typing-svg)
+<h2 align="center"> Who am I? <img src="https://cdn.discordapp.com/emojis/886788754403119114.png?size=100" width="30px"></h2>
 
 ```python
 
