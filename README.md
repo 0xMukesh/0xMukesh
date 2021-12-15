@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/90365542/145386869-a384bded-0732-4b41-b059-7b3299bcedc9.png)
+<h1 align="center"> Greetings 👋</h1>
 
 <h2 align="center"> Who am I? <img src="https://cdn.discordapp.com/emojis/886788754403119114.png?size=100" width="30px"></h2>
 
