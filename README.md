@@ -50,7 +50,13 @@ AboutMe = {
     <img src="https://github-profile-trophy.vercel.app/?username=Kira272921&theme=onedark&no-frame=true&no-bg=true&theme=discord">
 </div>
 
+<h2 align="center">Latest Blog Posts 📰</h2>
+
+
 <h2 align="center">WakaTime Stats <img src="https://cdn.discordapp.com/emojis/903871632102281266.png?size=100" width="30px"></h2>
+<!-- HASHNODE_BLOG:START -->
+
+<!-- HASHNODE_BLOG:END -->
 
 <!--START_SECTION:waka-->
 ```text
