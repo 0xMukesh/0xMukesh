@@ -55,7 +55,24 @@ AboutMe = {
 
 <h2 align="center">WakaTime Stats <img src="https://cdn.discordapp.com/emojis/903871632102281266.png?size=100" width="30px"></h2>
 <!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://kirablog.hashnode.dev//documentation-site-using-docusaurus" title="How to quickly build a documentation site using Docusaurus 🚀"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1640602309908/ePy621xu3f.png" alt="How to quickly build a documentation site using Docusaurus 🚀" width="250px" align="left" /></a>
+<a href="https://kirablog.hashnode.dev//documentation-site-using-docusaurus" title="How to quickly build a documentation site using Docusaurus 🚀"><strong>How to quickly build a documentation site using Docusaurus 🚀</strong></a>
+<br/> Ever tried to create a documentation site for your API or software and struggling to make it look great 🤔 ? This isn't the problem only you have faced every developer faces it. Today I am here to introduce y'all to Docusaurus 🎉
 
+About Docusaurus
+Do... </p> <br/> <br/>
+<p align="left">
+<a href="https://kirablog.hashnode.dev//get-started-with-fast-api" title="Get started with Fast API ⚡🚀"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1640520699771/3WFdruVm1.png" alt="Get started with Fast API ⚡🚀" width="250px" align="left" /></a>
+<a href="https://kirablog.hashnode.dev//get-started-with-fast-api" title="Get started with Fast API ⚡🚀"><strong>Get started with Fast API ⚡🚀</strong></a>
+<br/> Hello, everyone
+
+In this blog, we will know how to get started with Fast API ⚡
+But what is Fast API 🤔 ? 
+
+FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
+
+So let's g... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <!--START_SECTION:waka-->
