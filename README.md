@@ -67,4 +67,5 @@ JSON         7 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   
 [![Discord](https://img.shields.io/badge/-DISCORD-informational?style=for-the-badge&logo=discord&logoColor=23272a&color=7289da)](https://discord.gg/4EDmwmzXzN)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kira272921)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://kirablog.hashnode.dev/)
 </div>
