@@ -54,17 +54,16 @@ AboutMe = {
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://kirablog.hashnode.dev//rest-api-using-nodejs" title="How to build a REST API using NodeJS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1642775370221/iAApNsOth.png" alt="How to build a REST API using NodeJS" width="250px" align="left" /></a>
+<a href="https://kirablog.hashnode.dev//rest-api-using-nodejs" title="How to build a REST API using NodeJS"><strong>How to build a REST API using NodeJS</strong></a>
+<br/> 👋 Hey everyone, I know it's been really long since I posted a new blog 😅. 👀 So in this blog post we are doing to build a REST API which would serve as a source of motivation for developers using NodeJS and MongoDB. So let's get started 🏄‍♂️
+
+What... </p> <br/> <br/>
+<p align="left">
 <a href="https://kirablog.hashnode.dev//build-a-cli-using-nodejs" title="How to build a CLI using NodeJS 💻"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641293362185/bSfi81sjGD.png" alt="How to build a CLI using NodeJS 💻" width="250px" align="left" /></a>
 <a href="https://kirablog.hashnode.dev//build-a-cli-using-nodejs" title="How to build a CLI using NodeJS 💻"><strong>How to build a CLI using NodeJS 💻</strong></a>
 <br/> How to build a CLI using NodeJS 💻
 CLI (Command Line Interface) is one of the most basic and powerful applications ever created by mankind. We all use CLI every day, whether it be npm, git, or any other CLI. Does your daily basis workflow have someth... </p> <br/> <br/>
-<p align="left">
-<a href="https://kirablog.hashnode.dev//documentation-site-using-docusaurus" title="How to quickly build a documentation site using Docusaurus 🚀"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1640602309908/ePy621xu3f.png" alt="How to quickly build a documentation site using Docusaurus 🚀" width="250px" align="left" /></a>
-<a href="https://kirablog.hashnode.dev//documentation-site-using-docusaurus" title="How to quickly build a documentation site using Docusaurus 🚀"><strong>How to quickly build a documentation site using Docusaurus 🚀</strong></a>
-<br/> Ever tried to create a documentation site for your API or software and struggling to make it look great 🤔 ? This isn't the problem only you have faced every developer faces it. Today I am here to introduce y'all to Docusaurus 🎉
-
-About Docusaurus
-Do... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
