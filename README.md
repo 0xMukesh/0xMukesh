@@ -56,9 +56,9 @@ AboutMe = {
 <p align="left">
 <a href="https://kirablog.hashnode.dev//rest-api-using-nodejs" title="How to build a REST API using NodeJS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1642775370221/iAApNsOth.png" alt="How to build a REST API using NodeJS" width="250px" align="left" /></a>
 <a href="https://kirablog.hashnode.dev//rest-api-using-nodejs" title="How to build a REST API using NodeJS"><strong>How to build a REST API using NodeJS</strong></a>
-<br/> 👋 Hey everyone, I know it's been really long since I posted a new blog 😅. 👀 So in this blog post we are doing to build a REST API which would serve as a source of motivation for developers using NodeJS and MongoDB. So let's get started 🏄‍♂️
+<br/> 👋 Hey everyone, I know it's been a long since I posted a new blog 😅. 👀 So in this blog post we are doing to build a REST API that would serve as a source of motivation for developers using NodeJS and MongoDB. So let's get started 🏄‍♂️
 
-What... </p> <br/> <br/>
+What's an ... </p> <br/> <br/>
 <p align="left">
 <a href="https://kirablog.hashnode.dev//build-a-cli-using-nodejs" title="How to build a CLI using NodeJS 💻"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641293362185/bSfi81sjGD.png" alt="How to build a CLI using NodeJS 💻" width="250px" align="left" /></a>
 <a href="https://kirablog.hashnode.dev//build-a-cli-using-nodejs" title="How to build a CLI using NodeJS 💻"><strong>How to build a CLI using NodeJS 💻</strong></a>
