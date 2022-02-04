@@ -2,19 +2,21 @@
 
 <h2 align="center"> Who am I? <img src="https://cdn.discordapp.com/emojis/886788754403119114.png?size=100" width="30px"></h2>
 
+```bash
+> neofetch
+```
+
 ```python
+kira272921@github
+-----------------
 
-AboutMe = {
-
-    Name      : "Kira",
-
-    Pronouns  : "He/Him",
-
-    Languages : [
-        "Python", "HTML", "CSS", "JS"
-    ]
- }
- ```
+OS:         Windows
+Shell:      ZSH
+Pronouns:   He/Him
+Location:   India
+Languages:  Python, JS
+Learning:   TS
+```
 
 <div align="center">
     <h2>Techstack<img src="https://cdn.discordapp.com/emojis/886120813969956875.png?size=100" width="30px"></h2>
