@@ -56,16 +56,17 @@ Learning:   TS
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://kirablog.hashnode.dev//build-a-blog-using-remix-and-mdx" title="How to build a blog using Remix and MDX"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1644228473977/QFYmPIHm1.png" alt="How to build a blog using Remix and MDX" width="250px" align="left" /></a>
+<a href="https://kirablog.hashnode.dev//build-a-blog-using-remix-and-mdx" title="How to build a blog using Remix and MDX"><strong>How to build a blog using Remix and MDX</strong></a>
+<br/> Hey, folks 👋. Today we are going to build a new blog from starch using Remix, MDX and TailwindCSS
+🤔 What's Remix? Yet another JavaScript framework
+Remix is a full-stack web framework based on web fundamentals and modern UX. It is created by the tea... </p> <br/> <br/>
+<p align="left">
 <a href="https://kirablog.hashnode.dev//rest-api-using-nodejs" title="How to build a REST API using NodeJS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1642775370221/iAApNsOth.png" alt="How to build a REST API using NodeJS" width="250px" align="left" /></a>
 <a href="https://kirablog.hashnode.dev//rest-api-using-nodejs" title="How to build a REST API using NodeJS"><strong>How to build a REST API using NodeJS</strong></a>
 <br/> 👋 Hey everyone, I know it's been a long since I posted a new blog 😅. 👀 So in this blog post we are doing to build a REST API that would serve as a source of motivation for developers using NodeJS and MongoDB. So let's get started 🏄‍♂️
 
 What's an ... </p> <br/> <br/>
-<p align="left">
-<a href="https://kirablog.hashnode.dev//build-a-cli-using-nodejs" title="How to build a CLI using NodeJS 💻"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641293362185/bSfi81sjGD.png" alt="How to build a CLI using NodeJS 💻" width="250px" align="left" /></a>
-<a href="https://kirablog.hashnode.dev//build-a-cli-using-nodejs" title="How to build a CLI using NodeJS 💻"><strong>How to build a CLI using NodeJS 💻</strong></a>
-<br/> How to build a CLI using NodeJS 💻
-CLI (Command Line Interface) is one of the most basic and powerful applications ever created by mankind. We all use CLI every day, whether it be npm, git, or any other CLI. Does your daily basis workflow have someth... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
