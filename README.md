@@ -15,7 +15,7 @@ Shell:      ZSH
 Pronouns:   He/Him
 Location:   India
 Languages:  Python, JS
-Learning:   TS
+Learning:   Solidity
 ```
 
 <div align="center">
