@@ -69,18 +69,6 @@ Remix is a full-stack web framework based on web fundamentals and modern UX. It 
 What's an ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
-
-<h2 align="center">WakaTime Stats <img src="https://cdn.discordapp.com/emojis/903871632102281266.png?size=100" width="30px"></h2>
-
-<!--START_SECTION:waka-->
-```text
-Total: 1 hr 4 mins
-
-Markdown     55 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀   86.56 % 
-Bash         7 mins          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.82 % 
-```
-<!--END_SECTION:waka-->
-
 <div align=center>
 <h2>Social media links</h2>
   
