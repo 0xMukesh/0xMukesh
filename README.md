@@ -35,16 +35,14 @@ Learning:   Solidity
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://kirablog.hashnode.dev//how-to-build-a-faucet-cli-using-nodejs" title="How to build a faucet CLI using NodeJS 🚀"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650688332221/7w6avoaWb.png" alt="How to build a faucet CLI using NodeJS 🚀" width="250px" align="left" /></a>
+<a href="https://kirablog.hashnode.dev//how-to-build-a-faucet-cli-using-nodejs" title="How to build a faucet CLI using NodeJS 🚀"><strong>How to build a faucet CLI using NodeJS 🚀</strong></a>
+<br/> Hey everyone 👋! I guess I took a long break from blogging but I am back with some interesting web3 stuff. Today we are doing to be BUIDLing a command-line interface that would act as a faucet and we would be also adding metamask authentication to it... </p> <br/> <br/>
+<p align="left">
 <a href="https://kirablog.hashnode.dev//solidity-quickstart-0" title="🚀 Solidity Quickstart [0]"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1645604581420/hi0ZwGqSU.png" alt="🚀 Solidity Quickstart [0]" width="250px" align="left" /></a>
 <a href="https://kirablog.hashnode.dev//solidity-quickstart-0" title="🚀 Solidity Quickstart [0]"><strong>🚀 Solidity Quickstart [0]</strong></a>
 <br/> Hey folks 👀. Hope y'all are doing great. You might have heard about web3 and its hype on Twitter and maybe you wanna explore it as well. Well, so today I am here to give all a quick tour of solidity 🚀. So let's get started.
 NOTE: This blog post isn... </p> <br/> <br/>
-<p align="left">
-<a href="https://kirablog.hashnode.dev//build-a-blog-using-remix-and-mdx" title="How to build a blog using Remix and MDX"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1644228473977/QFYmPIHm1.png" alt="How to build a blog using Remix and MDX" width="250px" align="left" /></a>
-<a href="https://kirablog.hashnode.dev//build-a-blog-using-remix-and-mdx" title="How to build a blog using Remix and MDX"><strong>How to build a blog using Remix and MDX</strong></a>
-<br/> Hey, folks 👋. Today we are going to build a new blog from starch using Remix, MDX and TailwindCSS
-🤔 What's Remix? Yet another JavaScript framework
-Remix is a full-stack web framework based on web fundamentals and modern UX. It is created by the tea... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <div align=center>
