@@ -14,8 +14,8 @@ OS:         Windows
 Shell:      ZSH
 Pronouns:   He/Him
 Location:   India
-Languages:  Python, JS
-Learning:   Solidity
+Languages:  Javascript, Typescript, Solidity, Python
+Learning:   Rust
 ```
 
 <div align="center">
