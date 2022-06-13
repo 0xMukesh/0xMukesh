@@ -11,7 +11,7 @@ kira272921@github
 -----------------
 
 OS:         Windows
-Shell:      ZSH
+Shell:      Fish 
 Pronouns:   He/Him
 Location:   India
 Languages:  Javascript, Typescript, Solidity, Python
@@ -25,10 +25,10 @@ Learning:   Rust
 
 <div align="center">
     <h2>GitHub Profile Stats 📊</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=Kira272921&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&hide_border=true" height="175px">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kira272921&show_icons=true&hide_border=true&theme=dark" height="175px">
+    <img src="https://github-readme-stats.vercel.app/api?username=mukesh272921&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&hide_border=true" height="175px">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh272921&show_icons=true&hide_border=true&theme=dark" height="175px">
     <h2>GitHub Trophies <img src="https://cdn.discordapp.com/emojis/866705355684577290.png?v=1" width="30px"></h2>
-    <img src="https://github-profile-trophy.vercel.app/?username=Kira272921&theme=onedark&no-frame=true&no-bg=true&theme=discord">
+    <img src="https://github-profile-trophy.vercel.app/?username=mukesh272921&theme=onedark&no-frame=true&no-bg=true&theme=discord">
 </div>
 
 <h2 align="center">Latest Blog Posts 📰</h2>
