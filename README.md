@@ -7,14 +7,14 @@
 ```
 
 ```python
-kira272921@github
+mukesj272921@github
 -----------------
 
-OS:         Windows
+OS:         WSL
 Shell:      Fish 
 Pronouns:   He/Him
 Location:   India
-Languages:  Javascript, Typescript, Solidity, Python
+Languages:  TypeScript, JavaScript, Solidity
 Learning:   Rust
 ```
 
