@@ -1,55 +1,32 @@
-<h1 align="center"> Greetings 👋</h1>
+# Hey! 👋
 
-<h2 align="center"> Who am I? <img src="https://cdn.discordapp.com/emojis/886788754403119114.png?size=100" width="30px"></h2>
+I'm Mukesh — A passionate backend engineer from India, who is surfing around in the world of web3 🏄‍♂️. I love building crazy stuff on [Solana](https://solana.com) and [Polygon](https://polygon.technology).
 
-```bash
-> neofetch
-```
+I mainly build products in the web3 space and do a "**lot**" experiments with the latest tech in backend ecosystem
 
-```python
-0xMukesh@github
------------------
+## Skills
 
-OS:         WSL
-Shell:      Fish 
-Pronouns:   He/Him
-Location:   India
-Languages:  TypeScript, JavaScript, Solidity
-Learning:   Rust
-```
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,prisma,postgres,redis,solidity,vscode,git" />
 
-<div align="center">
-    <h2>Techstack <img src="https://cdn.discordapp.com/emojis/886120813969956875.png?size=100" width="30px"></h2>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,tailwind,react,nextjs,svelte,nodejs,mongodb,firebase,solidity">
-</div>
+## Stats
 
-<div align="center">
-    <h2>GitHub Profile Stats 📊</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=mukesh272921&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&hide_border=true" height="175px">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh272921&show_icons=true&hide_border=true&theme=dark" height="175px">
-    <h2>GitHub Trophies <img src="https://cdn.discordapp.com/emojis/866705355684577290.png?v=1" width="30px"></h2>
-    <img src="https://github-profile-trophy.vercel.app/?username=mukesh272921&theme=onedark&no-frame=true&no-bg=true&theme=discord">
-</div>
+<a href="https://github.com/0xMukesh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xMukesh&amp;show_icons=true&amp;theme=radical" height="160"  witdh="480" />
+</a>
+<a href="https://github.com/0xMukesh">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=0xMukesh&theme=radical" height="160" witdh="480" />
+</a>
 
-<h2 align="center">Latest Blog Posts 📰</h2>
+## Builds
 
-<!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://kirablog.hashnode.dev//how-to-build-a-faucet-cli-using-nodejs" title="How to build a faucet CLI using NodeJS 🚀"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650688332221/7w6avoaWb.png" alt="How to build a faucet CLI using NodeJS 🚀" width="250px" align="left" /></a>
-<a href="https://kirablog.hashnode.dev//how-to-build-a-faucet-cli-using-nodejs" title="How to build a faucet CLI using NodeJS 🚀"><strong>How to build a faucet CLI using NodeJS 🚀</strong></a>
-<br/> Hey everyone 👋! I guess I took a long break from blogging but I am back with some interesting web3 stuff. Today we are doing to be BUIDLing a command-line interface that would act as a faucet and we would be also adding metamask authentication to it... </p> <br/> <br/>
-<p align="left">
-<a href="https://kirablog.hashnode.dev//solidity-quickstart-0" title="🚀 Solidity Quickstart [0]"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1645604581420/hi0ZwGqSU.png" alt="🚀 Solidity Quickstart [0]" width="250px" align="left" /></a>
-<a href="https://kirablog.hashnode.dev//solidity-quickstart-0" title="🚀 Solidity Quickstart [0]"><strong>🚀 Solidity Quickstart [0]</strong></a>
-<br/> Hey folks 👀. Hope y'all are doing great. You might have heard about web3 and its hype on Twitter and maybe you wanna explore it as well. Well, so today I am here to give all a quick tour of solidity 🚀. So let's get started.
-NOTE: This blog post isn... </p> <br/> <br/>
-<!-- HASHNODE_BLOG:END -->
+- [CandyPay SDK](https://github.com/candypay/sdk) - A TypeScript SDK for effortlessly creating NFT minting functions for Candy Machine v2 collections.
+- [CandyPay](https://candypay.fun) - A whole new NFT minting experience on Solana via QR codes, leveraging [Solana Pay](https://solanapay.com).
+- [faucetli](https://github.com/buidler-hub/faucetli) - A command-line tool to quickly request tokens on testnets blazing fast!
+- [snipli](https://github.com/buidler-hub/snipli) - A command-line tool to quickly convert your local files into a GitHub gist.
+- [rayli](https://github.com/buidler-hub/rayli) - A command-line tool to quickly generate beautiful screenshots of your code right from the terminal.
 
-<div align=center>
-<h2>Social media links</h2>
-  
-[![Discord](https://img.shields.io/badge/-DISCORD-informational?style=for-the-badge&logo=discord&logoColor=23272a&color=7289da)](https://discord.gg/4EDmwmzXzN)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kira272921)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://kirablog.hashnode.dev/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Kira_272921)
-</div>
+## Socials
+
+- Twitter: [@0xMukesh](https://twitter.com/0xMukesh)
+- Discord: https://discord.gg/cBqAvjFdnF
+- Lens protocol: [0xMukesh.lens](https://www.lensfrens.xyz/0xmukesh.lens)
