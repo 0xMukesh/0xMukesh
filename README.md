@@ -20,7 +20,7 @@ I mainly build products in the web3 space and do a "**lot**" experiments with th
 ## Builds
 
 - [CandyPay SDK](https://github.com/candypay/sdk) - A TypeScript SDK for effortlessly creating NFT minting functions for Candy Machine v2 collections.
-- [CandyPay](https://candypay.fun) - A whole new NFT minting experience on Solana via QR codes, leveraging [Solana Pay](https://solanapay.com).
+- [CandyPay](https://twitter.com/candypayfun) - A whole new NFT minting experience on Solana via QR codes, leveraging [Solana Pay](https://solanapay.com).
 - [faucetli](https://github.com/buidler-hub/faucetli) - A command-line tool to quickly request tokens on testnets blazing fast!
 - [snipli](https://github.com/buidler-hub/snipli) - A command-line tool to quickly convert your local files into a GitHub gist.
 - [rayli](https://github.com/buidler-hub/rayli) - A command-line tool to quickly generate beautiful screenshots of your code right from the terminal.
