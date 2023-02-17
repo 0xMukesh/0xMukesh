@@ -1,6 +1,6 @@
 # Hey! 👋
 
-I'm Mukesh — A passionate backend engineer from India, who is surfing around in the world of web3 🏄‍♂️. I love building crazy stuff on [Solana](https://solana.com) and [Polygon](https://polygon.technology).
+I'm Mukesh — A passionate backend engineer from India, who is surfing around in the world of web3 🏄‍♂️. I love building crazy stuff on [Solana](https://solana.com)
 
 I mainly build products in the web3 space and do a "**lot**" experiments with the latest tech in backend ecosystem
 
@@ -29,4 +29,3 @@ I mainly build products in the web3 space and do a "**lot**" experiments with th
 
 - Twitter: [@0xMukesh](https://twitter.com/0xMukesh)
 - Discord: https://discord.gg/cBqAvjFdnF
-- Lens protocol: [0xMukesh.lens](https://www.lensfrens.xyz/0xmukesh.lens)
