@@ -38,6 +38,7 @@ Below is the list of stuff I have worked upon:
 - [my neighbour totoro](https://myanimelist.net/anime/523/Tonari_no_Totoro)
 - [kiki's delivery service](https://myanimelist.net/anime/512/Majo_no_Takkyuubin)
 - [spirited away](https://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi)
+- [suzume](https://myanimelist.net/anime/50594/Suzume_no_Tojimari)
 
 ### plan to watch
 
