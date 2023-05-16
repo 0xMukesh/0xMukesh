@@ -28,7 +28,7 @@ Below is the list of stuff I have worked upon:
 
 ### currently watching
 
-- [attack on titans](https://myanimelist.net/anime/16498/Shingeki_no_Kyojin)
+- [attack on titans](https://myanimelist.net/anime/48583/Shingeki_no_Kyojin__The_Final_Season_Part_2) (S4 P2)
 
 ### completed
 
