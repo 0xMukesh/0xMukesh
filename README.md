@@ -39,11 +39,10 @@ Below is the list of stuff I have worked upon:
 - [kiki's delivery service](https://myanimelist.net/anime/512/Majo_no_Takkyuubin)
 - [spirited away](https://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi)
 - [suzume](https://myanimelist.net/anime/50594/Suzume_no_Tojimari)
+- [your name](https://myanimelist.net/manga/99314/Kimi_no_Na_wa)
 
 ### plan to watch
 
 - [demon slayer](https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba)
 - [naruto: shippuden](https://myanimelist.net/anime/1735/Naruto__Shippuuden)
 - [tokyo ghoul](https://myanimelist.net/anime/22319/Tokyo_Ghoul)
-- [spy x family](https://myanimelist.net/anime/50265/Spy_x_Family)
-- [haikyuu!!](https://myanimelist.net/anime/20583/Haikyuu)
