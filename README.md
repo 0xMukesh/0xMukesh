@@ -18,7 +18,7 @@ Below is the list of stuff I have worked upon:
   - [rayli](https://github.com/avneesh0612/rayli) - A command-line tool to quickly generate beautiful screenshots of your code right from the terminal.
 
 - extensions
-  - [react and nextjs snippets](https://github.com/avneesh0612/react-nextjs-snippets) - A VSCode extension packed with a bunch of React and Next.js snippets, used by over 6k+ people.
+  - [react and nextjs snippets](https://github.com/avneesh0612/react-nextjs-snippets) - A VSCode extension packed with a bunch of React and Next.js snippets, used by over 16k+ people.
   - [thirdsnips](https://github.com/avneesh0612/thirdsnips) - Another VSCode extension providing snippets from the [thirdweb](https://thirdweb.com/) portal. [unmaintained]
 
 - templates
