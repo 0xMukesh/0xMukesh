@@ -25,25 +25,4 @@ Below is the list of stuff I have worked upon:
   - [hacky-node-template](https://github.com/0xMukesh/hacky-node-template) - A type-safe Node.js template to quickly get started building.
   - [hacky-node-template-v2](https://github.com/0xMukesh/hacky-node-template-v2) - A node.js template to quickly get started building with Fastify and Prisma.
 
-## ~/anime
 
-### currently watching
-
-- [attack on titans](https://myanimelist.net/anime/48583/Shingeki_no_Kyojin__The_Final_Season_Part_2) (S4 P2)
-
-### completed
-
-- [death note](https://myanimelist.net/anime/1535/Death_Note)
-- [one punch man](https://myanimelist.net/anime/30276/One_Punch_Man)
-- [code geass](https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch)
-- [my neighbour totoro](https://myanimelist.net/anime/523/Tonari_no_Totoro)
-- [kiki's delivery service](https://myanimelist.net/anime/512/Majo_no_Takkyuubin)
-- [spirited away](https://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi)
-- [suzume](https://myanimelist.net/anime/50594/Suzume_no_Tojimari)
-- [your name](https://myanimelist.net/manga/99314/Kimi_no_Na_wa)
-
-### plan to watch
-
-- [demon slayer](https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba)
-- [naruto: shippuden](https://myanimelist.net/anime/1735/Naruto__Shippuuden)
-- [tokyo ghoul](https://myanimelist.net/anime/22319/Tokyo_Ghoul)
