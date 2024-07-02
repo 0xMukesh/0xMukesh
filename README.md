@@ -1,4 +1,4 @@
-founding engineer [@candypay](https://twitter.com/candypayfun) ✦ member [@superteam](https://twitter.com/superteamdao) ✦ [twitter](https://twitter.com/0xMukesh)
+built [@candypay](https://twitter.com/candypayfun) ✦ member [@superteam](https://twitter.com/superteamdao) ✦ [twitter](https://twitter.com/0xMukesh)
 
 ## ~/src
 
