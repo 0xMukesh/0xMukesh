@@ -25,4 +25,7 @@ Below is the list of stuff I have worked upon:
   - [hacky-node-template](https://github.com/0xMukesh/hacky-node-template) - A type-safe Node.js template to quickly get started building.
   - [hacky-node-template-v2](https://github.com/0xMukesh/hacky-node-template-v2) - A node.js template to quickly get started building with Fastify and Prisma.
 
+## ~/blogs
 
+- [deep dive into nft compression](https://hackmd.io/ghK-7ytzSFyWSdiR0Rx8ug)
+- [exploring zk compression](https://hackmd.io/Mp_8X5RLSea_vXTT9j7blA)
