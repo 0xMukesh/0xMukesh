@@ -1,10 +1,13 @@
-built [@candypay](https://twitter.com/candypayfun) ✦ member [@superteam](https://twitter.com/superteamdao) ✦ [twitter](https://twitter.com/0xMukesh)
-
 ## ~/src
 
 Below is the list of stuff I have worked upon:
 
-- apps
+- [from-scratch](https://0xmukesh.github.io/blogs/001.html)
+  - [brtlang](https://github.com/0xmukesh/brtlang) - a dynamically typed toy programming language whose syntax is inspired from internet slang, made using golang
+  - [path-tracer](https://github.com/0xmukesh/path-tracer) - a simple path tracer made in golang
+  - [brainfreeze](https://github.com/0xmukesh/brainfreeze) - a tiny brainf*ck interpreter 
+
+- apps/libs
   - [@candypay/sdk](https://github.com/candypay/sdk) - A TypeScript SDK for effortlessly creating NFT minting functions for Candy Machine v2 collections. 
   - [@candypay/caramel](https://github.com/candypay/caramel) - A POW app that showcases the usage of CandyPay checkout, to monetize GitHub packages.
   - [askanon](https://askanon.fun) - Ask questions, and get answers from people anonymously. Built on Solana using Blinks
@@ -28,5 +31,7 @@ Below is the list of stuff I have worked upon:
 
 ## ~/blogs
 
-- [deep dive into nft compression](https://hackmd.io/ghK-7ytzSFyWSdiR0Rx8ug)
+- [writing a mini path tracer: making a gradient](https://0xmukesh.github.io/blogs/003.html)
+- [writing a brainfuck interpreter](https://0xmukesh.github.io/blogs/002.html)
 - [exploring zk compression](https://hackmd.io/Mp_8X5RLSea_vXTT9j7blA)
+- [deep dive into nft compression](https://hackmd.io/ghK-7ytzSFyWSdiR0Rx8ug)
