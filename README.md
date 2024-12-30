@@ -31,6 +31,8 @@ Below is the list of stuff I have worked upon:
 
 ## ~/blogs
 
+- [playing with sine waves using golang](https://0xmukesh.github.io/blogs/005.html)
+- [writing a mini path tracer: working with spheres](https://0xmukesh.github.io/blogs/004.html)
 - [writing a mini path tracer: making a gradient](https://0xmukesh.github.io/blogs/003.html)
 - [writing a brainfuck interpreter](https://0xmukesh.github.io/blogs/002.html)
 - [exploring zk compression](https://hackmd.io/Mp_8X5RLSea_vXTT9j7blA)
