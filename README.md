@@ -31,6 +31,7 @@ Below is the list of stuff I have worked upon:
 
 ## ~/blogs
 
+- [writing a mini path tracer: hittables and diffuse materials](https://0xmukesh.github.io/blogs/006.html)
 - [playing with sine waves using golang](https://0xmukesh.github.io/blogs/005.html)
 - [writing a mini path tracer: working with spheres](https://0xmukesh.github.io/blogs/004.html)
 - [writing a mini path tracer: making a gradient](https://0xmukesh.github.io/blogs/003.html)
