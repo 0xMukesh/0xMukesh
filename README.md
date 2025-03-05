@@ -2,10 +2,16 @@
 
 Below is the list of stuff I have worked upon:
 
+- work
+  - [clopetra](https://docs.cleopetra.fun) - Bringing DeFi to masses through AI powered Telegram bots and native mobile apps
+  - [haven](https://haven.fan) - Growth engine for your token, allowing creators to seamlessly launch loyalty programs, reward loyal fans, and unlock new revenue streams
+  - [askanon](https://askanon.fun) - Send anonymous messages to crypto influencers straight from twitter using solana blinks. 14K+ messages sent!
+  - [candypay](https://x.com/candypayfun) - A crypto payments platform built on top of Solana trusted by 500+ apps and developers including [Triton One](triton.one), [Prospera Global](https://www.prospera.co), and more. 
+
 - [from-scratch](https://0xmukesh.github.io/blogs/001.html)
-  - [brtlang](https://github.com/0xmukesh/brtlang) - a dynamically typed toy programming language whose syntax is inspired from internet slang, made using golang
-  - [path-tracer](https://github.com/0xmukesh/path-tracer) - a simple path tracer made in golang
-  - [brainfreeze](https://github.com/0xmukesh/brainfreeze) - a tiny brainf*ck interpreter 
+  - [brtlang](https://github.com/0xmukesh/brtlang) - A dynamically typed toy programming language whose syntax is inspired from internet slang, made using Golang
+  - [path-tracer](https://github.com/0xmukesh/path-tracer) - A simple path tracer made in golang
+  - [brainfreeze](https://github.com/0xmukesh/brainfreeze) - A tiny brainf*ck interpreter 
 
 - apps/libs
   - [@candypay/sdk](https://github.com/candypay/sdk) - A TypeScript SDK for effortlessly creating NFT minting functions for Candy Machine v2 collections. 
