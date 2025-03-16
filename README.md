@@ -11,7 +11,7 @@ Below is the list of stuff I have worked upon:
 - projects
   - [pulmovision](https://github.com/0xMukesh/pulmovision) - A multi-label image classification model that analyzes chest X-ray scans to identify 14 distinct lung pathologies,
 built using ResNet50 architecture and trained on chestMNIST dataset
-  - [amplify](https://github.com/0xMukesh/amplify) - A character-level language model which generates more content based on the input data, built using WaveNet architecture
+  - [amplify](https://github.com/0xMukesh/amplify) - A character-level language model which generates more content based on the input data, built using RNN architecture
   - [brtlang](https://github.com/0xmukesh/brtlang) - A dynamically typed toy programming language whose syntax is inspired from internet slang, made using Golang
   - [raygo](https://github.com/0xmukesh/raygo) - A simple path tracer made in golang
   - [brainfreeze](https://github.com/0xmukesh/brainfreeze) - A tiny brainf*ck interpreter 
