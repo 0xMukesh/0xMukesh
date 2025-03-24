@@ -6,14 +6,14 @@ Below is the list of stuff I have worked upon:
   - [cleopetra](https://docs.cleopetra.fun) - Bringing DeFi to masses through AI powered Telegram bots and native mobile apps
   - [haven](https://haven.fan) - Growth engine for your token, allowing creators to seamlessly launch loyalty programs, reward loyal fans, and unlock new revenue streams
   - [askanon](https://askanon.fun) - Send anonymous messages to crypto influencers straight from twitter using solana blinks. 14K+ messages sent!
-  - [candypay](https://x.com/candypayfun) - A crypto payments platform built on top of Solana trusted by 500+ apps and developers including [Triton One](triton.one), [Prospera Global](https://www.prospera.co), and more. 
+  - [candypay](https://x.com/candypayfun) - A crypto payments platform built on top of Solana trusted by 500+ apps and developers including [Triton One](triton.one), [Prospera Global](https://www.prospera.co), and more
 
 - projects
   - [pulmovision](https://github.com/0xMukesh/pulmovision) - A multi-label image classification model that analyzes chest X-ray scans to identify 14 distinct lung pathologies,
 built using ResNet50 architecture and trained on chestMNIST dataset
   - [amplify](https://github.com/0xMukesh/amplify) - A character-level language model which generates more content based on the input data, built using RNN architecture
   - [brtlang](https://github.com/0xmukesh/brtlang) - A dynamically typed toy programming language whose syntax is inspired from internet slang, made using Golang
-  - [raygo](https://github.com/0xmukesh/raygo) - A simple path tracer made in golang
+  - [raygo](https://github.com/0xmukesh/raygo) - A simple path tracer made in Golang
   - [brainfreeze](https://github.com/0xmukesh/brainfreeze) - A tiny brainf*ck interpreter 
   - [@candypay/sdk](https://github.com/candypay/sdk) - A TypeScript SDK for effortlessly creating NFT minting functions for Candy Machine v2 collections. 
   - [@candypay/caramel](https://github.com/candypay/caramel) - A POW app that showcases the usage of CandyPay checkout, to monetize GitHub packages.
