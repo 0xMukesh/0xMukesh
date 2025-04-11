@@ -5,7 +5,7 @@ Below is the list of stuff I have worked upon:
 - work
   - [cleopetra](https://docs.cleopetra.fun) - Bringing DeFi to masses through AI powered Telegram bots and native mobile apps
   - [haven](https://haven.fan) - Growth engine for your token, allowing creators to seamlessly launch loyalty programs, reward loyal fans, and unlock new revenue streams
-  - [candypay](https://x.com/candypayfun) - A crypto payments platform built on top of Solana trusted by 500+ apps and developers including [Triton One](triton.one), [Prospera Global](https://www.prospera.co), and more
+  - [candypay](https://x.com/candypayfun) - A crypto payments platform built on top of Solana trusted by 500+ apps and developers including [Triton One](triton.one), [Próspera Global](https://www.prospera.co), and more
 
 - projects
   - [pulmovision](https://github.com/0xMukesh/pulmovision) - A multi-label image classification model that analyzes chest X-ray scans to identify 14 distinct lung pathologies,
