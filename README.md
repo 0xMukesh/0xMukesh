@@ -27,7 +27,7 @@ built using ResNet50 architecture and trained on chestMNIST dataset
   - [react and nextjs snippets](https://github.com/avneesh0612/react-nextjs-snippets) - A VSCode extension packed with a bunch of React and Next.js snippets, used by over 20k+ people.
   - [thirdsnips](https://github.com/avneesh0612/thirdsnips) - Another VSCode extension providing snippets from the [thirdweb](https://thirdweb.com/) portal. [unmaintained]
   - [hacky-node-template](https://github.com/0xMukesh/hacky-node-template) - A type-safe Node.js template to quickly get started building.
-  - [hacky-node-template-v2](https://github.com/0xMukesh/hacky-node-template-v2) - A node.js template to quickly get started building with Fastify and Prisma.
+  - [hacky-node-template-v2](https://github.com/0xMukesh/hacky-node-template-v2) - A node.js template to quickly get started building with Fastify and Prisma
 
 ## ~/blogs
 
