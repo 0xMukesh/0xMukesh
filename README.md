@@ -31,6 +31,8 @@ built using ResNet50 architecture and trained on chestMNIST dataset
 
 ## ~/blogs
 
+- [CNNs explained](https://0xmukesh.bearblog.dev/cnns-explained/)
+- [batch normalization explained](https://0xmukesh.bearblog.dev/batch-normalization-explained/)
 - [writing a mini path tracer: hittables and diffuse materials](https://0xmukesh.github.io/blogs/006.html)
 - [playing with sine waves using golang](https://0xmukesh.github.io/blogs/005.html)
 - [writing a mini path tracer: working with spheres](https://0xmukesh.github.io/blogs/004.html)
