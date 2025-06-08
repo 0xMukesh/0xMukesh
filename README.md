@@ -8,6 +8,7 @@ Below is the list of stuff I have worked upon:
   - [candypay](https://x.com/candypayfun) - A crypto payments platform built on top of Solana trusted by 500+ apps and developers including [Triton One](triton.one), [Próspera Global](https://www.prospera.co), and more
 
 - projects
+  - [paper-implementations](https://github.com/0xMukesh/paper-implementations) - PyTorch implementations of few of the popular ML papers 
   - [pulmovision](https://github.com/0xMukesh/pulmovision) - A multi-label image classification model that analyzes chest X-ray scans to identify 14 distinct lung pathologies,
 built using ResNet50 architecture and trained on chestMNIST dataset
   - [amplify](https://github.com/0xMukesh/amplify) - A character-level language model which generates more content based on the input data, built using RNN architecture
