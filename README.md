@@ -31,6 +31,7 @@ built using ResNet50 architecture and trained on chestMNIST dataset
 
 ## ~/blogs
 
+- [exploring different CNNs](https://0xmukesh.bearblog.dev/exploring-different-cnns/)
 - [CNNs explained](https://0xmukesh.bearblog.dev/cnns-explained/)
 - [batch normalization explained](https://0xmukesh.bearblog.dev/batch-normalization-explained/)
 - [writing a mini path tracer: hittables and diffuse materials](https://0xmukesh.github.io/blogs/006.html)
