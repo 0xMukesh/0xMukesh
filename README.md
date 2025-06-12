@@ -32,6 +32,7 @@ built using ResNet50 architecture and trained on chestMNIST dataset
 
 ## ~/blogs
 
+- [creating art using CNNs](https://0xmukesh.bearblog.dev/creating-art-using-cnns)
 - [exploring different CNNs](https://0xmukesh.bearblog.dev/exploring-different-cnns/)
 - [CNNs explained](https://0xmukesh.bearblog.dev/cnns-explained/)
 - [batch normalization explained](https://0xmukesh.bearblog.dev/batch-normalization-explained/)
