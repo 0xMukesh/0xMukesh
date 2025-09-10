@@ -9,7 +9,7 @@ Below is the list of stuff I have worked upon:
 
 - projects
   - [paper-implementations](https://github.com/0xMukesh/paper-implementations) - PyTorch implementations of few of the popular ML papers
-  - [MoNuSeg-Net](https://github.com/0xmukesh/MoNuSeg-Net) - A semantic-segmentation model based on U-Net with attention, residual and squeeze-and-excitation blocks for multi-orgran nuclei segmentation
+  - [MoNuSeg-Net](https://github.com/0xmukesh/MoNuSeg-Net) - A semantic-segmentation model based on U-Net with attention, residual and squeeze-and-excitation blocks for multi-orgran nuclei segmentation, trained and evaluated on MuNoSAC 2020
   - [pulmovision](https://github.com/0xMukesh/pulmovision) - A multi-label image classification model that analyzes chest X-ray scans to identify 14 distinct lung pathologies,
 built using ResNet50 architecture and trained on chestMNIST dataset
   - [brtlang](https://github.com/0xmukesh/brtlang) - A dynamically typed toy programming language whose syntax is inspired from internet slang, made using Golang
