@@ -8,6 +8,7 @@ Below is the list of stuff I have worked upon:
   - [candypay](https://x.com/candypayfun) - A crypto payments platform built on top of Solana trusted by 500+ apps and developers including [Triton One](triton.one), [Próspera Global](https://www.prospera.co), and more
 
 - projects
+  - [chippy](https://github.com/0xmukesh/chippy) - A chip-8 emulator written in Go and uses Raylib for graphics and audio
   - [paper-implementations](https://github.com/0xMukesh/paper-implementations) - PyTorch implementations of few of the popular ML papers
   - [MoNuSeg-Net](https://github.com/0xmukesh/MoNuSeg-Net) - A semantic-segmentation model based on U-Net with attention, residual and squeeze-and-excitation blocks for multi-orgran nuclei segmentation, trained and evaluated on MuNoSAC 2020
   - [pulmovision](https://github.com/0xMukesh/pulmovision) - A multi-label image classification model that analyzes chest X-ray scans to identify 14 distinct lung pathologies,
