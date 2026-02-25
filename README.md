@@ -8,7 +8,7 @@ Below is the list of stuff I have worked upon:
   - [candypay](https://x.com/candypayfun) - A crypto payments platform built on top of Solana trusted by 500+ apps and developers including [Triton One](triton.one), [Próspera Global](https://www.prospera.co), and more
 
 - projects
-  - [coco](https://github.com/0xmukesh/coco) - A statically typed programming language written in Go annd uses LLVM for compiler backend 
+  - [coco](https://github.com/0xmukesh/coco) - A statically typed programming language written in Go and uses LLVM for compiler backend 
   - [chippy](https://github.com/0xmukesh/chippy) - A chip-8 emulator written in Go and uses Raylib for graphics and audio
   - [brtlang](https://github.com/0xmukesh/brtlang) - A dynamically typed toy programming language whose syntax is inspired from internet slang, made using Golang
   - [raygo](https://github.com/0xmukesh/raygo) - A simple path tracer written in Go
