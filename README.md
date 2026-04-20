@@ -8,8 +8,10 @@ Below is the list of stuff I have worked upon:
   - [candypay](https://x.com/candypayfun) - A crypto payments platform built on top of Solana trusted by 500+ apps and developers including [Triton One](triton.one), [Próspera Global](https://www.prospera.co), and more
 
 - projects
-  - [coco](https://github.com/0xmukesh/coco) - A statically typed programming language written in Go and uses LLVM for compiler backend 
-  - [chippy](https://github.com/0xmukesh/chippy) - A chip-8 emulator written in Go and uses Raylib for graphics and audio
+  - [coco](https://github.com/0xmukesh/coco) - A statically typed programming language written in Go and uses LLVM for compiler backend
+  - [tatami](https://github.com/0xmukesh/tatami) - A minimal tabbed layout X11 window manager written in Go
+  - [chippy](https://github.com/0xmukesh/chippy) - A CHIP-8 emulator written in Go and uses Raylib for graphics and audio
+  - [tiny.nes](https://github.com/0xmukesh/tiny.nes) - A tiny NES emulator writen in Go, which I worked on after developing Chippy and it further got me interested in EmuDev
   - [brtlang](https://github.com/0xmukesh/brtlang) - A dynamically typed toy programming language whose syntax is inspired from internet slang, made using Golang
   - [raygo](https://github.com/0xmukesh/raygo) - A simple path tracer written in Go
   - [brainfreeze](https://github.com/0xmukesh/brainfreeze) - A tiny brainf*ck interpreter
