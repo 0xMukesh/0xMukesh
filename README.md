@@ -1,4 +1,4 @@
-hey there! i'm mukesh. i mainly experiment with building financial instruments on crypto, deep learning, computational biology and game emulators. more about myself at [0xmukesh.github.io](https://0xmukesh.github.io)
+hey there! i'm mukesh. i mainly experiment with systems engineering, computational biology and building financial tools on crypto rails.. more about myself at [0xmukesh.github.io](https://0xmukesh.github.io)
 
 ### socials 
 
